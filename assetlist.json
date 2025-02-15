@@ -1003,11 +1003,11 @@
       "name": "Staked Frax USD",
       "description": "Staked Frax USD (sfrxUSD) is the yielding stablecoin implemented as an ERC4626 token.",
       "symbol": "sfrxUSD",
-      "base": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
+      "base": "0x5Bff88cA1442c2496f7E475E9e7786383Bc070c0",
       "display": "sfrxUSD",
       "denom_units": [
         {
-          "denom": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
+          "denom": "0x5Bff88cA1442c2496f7E475E9e7786383Bc070c0",
           "exponent": 0
         },
         {
@@ -1045,11 +1045,11 @@
       "name": "Staked Frax Ether",
       "description": "sfrxETH is a ERC-4626 vault designed to accrue the staking yield of the Frax ETH validators.",
       "symbol": "sfrxETH",
-      "base": "0x3ec3849c33291a9ef4c5db86de593eb4a37fde45",
+      "base": "0x3Ec3849C33291a9eF4c5dB86De593EB4A37fDe45",
       "display": "sfrxETH",
       "denom_units": [
         {
-          "denom": "0x3ec3849c33291a9ef4c5db86de593eb4a37fde45",
+          "denom": "0x3Ec3849C33291a9eF4c5dB86De593EB4A37fDe45",
           "exponent": 0
         },
         {
@@ -1066,11 +1066,11 @@
       "name": "Frax Shares",
       "description": "FXS is the staking and governance token of the entire Frax ecosystem.",
       "symbol": "FXS",
-      "base": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
+      "base": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a",
       "display": "FXS",
       "denom_units": [
         {
-          "denom": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
+          "denom": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a",
           "exponent": 0
         },
         {
