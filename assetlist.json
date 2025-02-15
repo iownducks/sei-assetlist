@@ -982,11 +982,11 @@
       "name": "Frax USD",
       "description": "Frax USD (frxUSD) is a fiat-redeemable, fully-collateralized stablecoin issued by the Frax Finance Protocol.",
       "symbol": "frxUSD",
-      "base": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+      "base": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
       "display": "frxUSD",
       "denom_units": [
         {
-          "denom": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+          "denom": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
           "exponent": 0
         },
         {
