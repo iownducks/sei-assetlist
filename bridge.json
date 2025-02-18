@@ -1,0 +1,29 @@
+{
+  "available_bridges": [
+    {"chainId": "sei", "name": "Sei", "icon": "https://cdn.sei.io/sei-app/sei-icon.png"},
+    {"chainId": "ethereum", "name": "Ethereum", "icon": "https://cdn.sei.io/sei-app/bridge/ethereum-icon.png"},
+    {"chainId": "solana", "name": "Solana", "icon": "https://cdn.sei.io/sei-app/bridge/solana-icon.png"},
+    {"chainId": "polygon", "name": "Polygon", "icon": "https://cdn.sei.io/sei-app/bridge/polygon-icon.png"},
+    {"chainId": "arbitrum", "name": "Arbitrum", "icon": "https://cdn.sei.io/sei-app/bridge/arbitrum-icon.png"},
+    {"chainId": "optimism", "name": "Optimism", "icon": "https://cdn.sei.io/sei-app/bridge/optimism-icon.png"},
+    {"chainId": "bsc", "name": "Binance Smart Chain", "icon": "https://cdn.sei.io/sei-app/bridge/bsc-icon.png"},
+    {"chainId": "ibc", "name": "IBC", "icon": "https://cdn.sei.io/sei-app/bridge/ibc-icon.png"}
+  ],
+  "available_providers": [
+    {"bridgeId": "stargate", "name": "Stargate", "website": "https://stargate.finance/transfer", "icon": "https://cdn.sei.io/sei-app/bridge/stargate-icon.png"},
+    {"bridgeId": "symbiosis", "name": "Symbiosis", "website": "https://app.symbiosis.finance/swap", "icon": "https://cdn.sei.io/sei-app/bridge/symbiosis-icon.png"},
+    {"bridgeId": "ibcfun", "name": "Skip", "website": "https://go.skip.build/", "icon": "https://cdn.sei.io/sei-app/bridge/skipgo-icon.png"},
+    {"bridgeId": "gasdotzip", "name": "Gas.zip", "website": "https://www.gas.zip/", "icon": "https://cdn.sei.io/sei-app/bridge/gasdotzip-icon.png", "direction": "Inbound"},
+    {"bridgeId": "tfm", "name": "TFM", "website": "https://app.tfm.com/ibc", "icon": "https://cdn.sei.io/sei-app/bridge/tfm-icon.png"},
+    {"bridgeId": "wormhole", "name": "Wormhole", "website": "https://portalbridge.com/advanced-tools/#/transfer", "icon": "https://cdn.sei.io/sei-app/bridge/wormhole-icon.png"},
+    {"bridgeId": "squid", "name": "Squid", "website": "https://app.squidrouter.com/", "icon": "https://cdn.sei.io/sei-app/bridge/squid-icon.png"},
+    {"bridgeId": "jumper", "name": "Jumper", "website": "https://jumper.exchange/", "icon": "https://cdn.sei.io/sei-app/bridge/jumper-icon.png"},
+    {"bridgeId": "nucleus", "name": "Nucleus", "website": "https://app.nucleusearn.io/tokens/sseth", "icon": "https://cdn.sei.io/sei-app/bridge/nucleus-icon.jpg"}
+  ],
+  "bridged_tokens": [
+    {"tokenId": "ethereum-eth", "name": {"originName": "ETH", "seiName": "WETH"}, "icon": "https://cdn.sei.io/sei-app/bridge/ethereum-icon.png", "chainId": "ethereum", "bridgeProviders": ["stargate", "gasdotzip", "symbiosis", "jumper"]},
+    {"tokenId": "ethereum-wbtc", "name": "WBTC", "icon": "https://cdn.sei.io/sei-app/bridge/btc-icon.png", "chainId": "ethereum", "bridgeProviders": []},
+    {"tokenId": "ethereum-usdc", "name": "USDC", "icon": "https://cdn.sei.io/sei-app/bridge/usdc-icon.png", "chainId": "ethereum", "bridgeProviders": ["ibcfun", "symbiosis", "squid", "jumper"]},
+    {"tokenId": "ethereum-usdt", "name": "USDT", "icon": "https://cdn.sei.io/sei-app/bridge/usdt-icon.png", "chainId": "ethereum", "bridgeProviders": ["ibcfun", "symbiosis", "jumper"]}
+  ]
+}
