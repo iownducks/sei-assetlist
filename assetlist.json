@@ -195,6 +195,31 @@
       "type_asset": "erc20"
     },
     {
+      "name": "MILLI",
+      "description": "The first dog on Sei & the fastest memecoin in crypto",
+      "symbol": "MILLI",
+      "base": "sei170949pwl4h36neazkwmdgtrh6nuenh66462n34839e23e8he3pqsnm5r2v",
+      "display": "MILLI",
+      "denom_units": [
+        {
+          "denom": "sei170949pwl4h36neazkwmdgtrh6nuenh66462n34839e23e8he3pqsnm5r2v",
+          "exponent": 0
+        },
+        {
+          "denom": "MILLI",
+          "exponent": 6
+        }
+      ],
+      "images": {
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/MILLI.png"
+      },
+      "type_asset": "cw20",
+      "pointer_contract": {
+        "address": "0x95597EB8D227a7c4B4f5E807a815C5178eE6dBE1",
+        "type_asset": "erc20"
+      }
+    },
+    {
       "name": "iSEI",
       "description": "Liquid Staking Sei via Silo",
       "symbol": "iSEI",
