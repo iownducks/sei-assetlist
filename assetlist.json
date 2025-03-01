@@ -242,7 +242,8 @@
       "pointer_contract": {
         "address": "0x5Cf6826140C1C56Ff49C808A1A75407Cd1DF9423",
         "type_asset": "erc20"
-      }
+      },
+      "coingecko_id": "silo-staked-sei"
     },
     {
       "name": "SEA",
