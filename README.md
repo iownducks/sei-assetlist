@@ -34,10 +34,10 @@ Each token in the assetlist should have an associated image. This is encapsulate
 To ensure that your token images can be accessed from this assetlist, you should commit those image files to this repo.
 1. Check the `./images` directory to see if any files can be used. (Especially for bridged stablecoins).
 2. If the `.png` and `.svg` files of your token does not already exist, upload your files to the `./images` directory of this repo.
-3. Ensure that your token assetlist points to `https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/<YOUR_FILE_NAME>`
+3. Ensure that your token assetlist points to `https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/<YOUR_FILE_NAME>`
 
 ## Querying
-To query the files in the assetlist directly, you can make call github directly (eg. https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/assetlist.json).
+To query the files in the assetlist directly, you can make call github directly (eg. https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/assetlist.json).
 
 Alternatively, you can query the sei-app-api (GET app-api.seinetwork.io/assetList). Note that this API only returns some curated properties and may not always return the most up-to-date assetlist.
 
