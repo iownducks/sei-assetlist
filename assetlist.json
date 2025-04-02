@@ -721,6 +721,31 @@
       }
     },
     {
+      "name": "USDT0",
+      "description": "USDT0 is the official standard for USDT on Sei Mainnet. It's backed 1:1 by locked assets on Ethereum and ensures seamless interoperability across blockchain networks via the LayerZero protocol.",
+      "symbol": "USDT",
+      "base": "sei1j9g5xjckh9mrvcrs2azgj8afqmmxpmx99szplg",
+      "display": "USDT",
+      "denom_units": [
+        {
+          "denom": "sei1j9g5xjckh9mrvcrs2azgj8afqmmxpmx99szplg",
+          "exponent": 0
+        },
+        {
+          "denom": "USDT",
+          "exponent": 6
+        }
+      ],
+      "images": {
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/usdt0.png"
+      },
+      "type_asset": "cw20",
+      "pointer_contract": {
+        "address": "0x9151434b16b9763660705744891fa906f660ecc5",
+        "type_asset": "erc20"
+      }
+    },
+    {
       "name": "Kava USDT",
       "description": "Tether USD\u20ae (Kava)",
       "symbol": "USD\u20ae",
