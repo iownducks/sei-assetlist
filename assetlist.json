@@ -739,6 +739,7 @@
       "images": {
         "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/usdt0.png"
       },
+      "coingecko_id": "usdt0",
       "type_asset": "cw20",
       "pointer_contract": {
         "address": "0x9151434b16b9763660705744891fa906f660ecc5",
