@@ -742,7 +742,7 @@
       "coingecko_id": "usdt0",
       "type_asset": "erc20",
       "pointer_contract": {
-        "address": "sei1j9g5xjckh9mrvcrs2azgj8afqmmxpmx99szplg",
+        "address": "sei1fmsu3v448uny8hle52c3n8ygk3cgqz5a4j5283kx0q3ar3vs03mqa4v5ca",
         "type_asset": "cw20"
       }
     },
