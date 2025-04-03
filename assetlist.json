@@ -724,11 +724,11 @@
       "name": "USDT0",
       "description": "USDT0 is the official standard for USDT on Sei Mainnet. It's backed 1:1 by locked assets on Ethereum and ensures seamless interoperability across blockchain networks via the LayerZero protocol.",
       "symbol": "USDT",
-      "base": "sei1j9g5xjckh9mrvcrs2azgj8afqmmxpmx99szplg",
+      "base": "0x9151434b16b9763660705744891fa906f660ecc5",
       "display": "USDT",
       "denom_units": [
         {
-          "denom": "sei1j9g5xjckh9mrvcrs2azgj8afqmmxpmx99szplg",
+          "denom": "0x9151434b16b9763660705744891fa906f660ecc5",
           "exponent": 0
         },
         {
@@ -740,10 +740,10 @@
         "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/usdt0.png"
       },
       "coingecko_id": "usdt0",
-      "type_asset": "cw20",
+      "type_asset": "erc20",
       "pointer_contract": {
-        "address": "0x9151434b16b9763660705744891fa906f660ecc5",
-        "type_asset": "erc20"
+        "address": "sei1j9g5xjckh9mrvcrs2azgj8afqmmxpmx99szplg",
+        "type_asset": "cw20"
       }
     },
     {
