@@ -747,24 +747,23 @@
       }
     },
     {
-      "name": "Kava USDT",
-      "description": "Tether USD\u20ae (Kava)",
-      "symbol": "USD\u20ae",
+      "name": "IBC Bridged USDT",
+      "description": "Tether kavaUSDT (Kava)",
+      "symbol": "kavaUSDT",
       "base": "ibc/6C00E4AA0CC7618370F81F7378638AE6C48EFF8C9203CE1C2357012B440EBDB7",
-      "display": "USD\u20ae",
+      "display": "kavaUSDT",
       "denom_units": [
         {
           "denom": "ibc/6C00E4AA0CC7618370F81F7378638AE6C48EFF8C9203CE1C2357012B440EBDB7",
           "exponent": 0
         },
         {
-          "denom": "USD\u20ae",
+          "denom": "kavaUSDT",
           "exponent": 6
         }
       ],
       "images": {
-        "svg": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/USDT.svg",
-        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/USDT.png"
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/kavaUSDT.png"
       },
       "coingecko_id": "tether",
       "type_asset": "ics20",
