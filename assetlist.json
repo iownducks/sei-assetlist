@@ -174,6 +174,31 @@
       }
     },
     {
+      "name": "RED",
+      "description": "Aka Pep-é, King of the Red Chain",
+      "symbol": "RED",
+      "base": "sei15sleqjgvttvxqrejx2xmlme8wlpvxge69f8tccztc9wl2s00ywaq9v0ymx",
+      "display": "RED",
+      "denom_units": [
+        {
+          "denom": "sei15sleqjgvttvxqrejx2xmlme8wlpvxge69f8tccztc9wl2s00ywaq9v0ymx",
+          "exponent": 0
+        },
+        {
+          "denom": "RED",
+          "exponent": 6
+        }
+      ],
+      "images": {
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/RED.png"
+      },
+      "type_asset": "cw20",
+      "pointer_contract": {
+        "address": "0xD049e189ACC1873BCa8c0a314d6B26835684Fb89",
+        "type_asset": "erc20"
+      }
+    },
+    {
       "name": "xSEIYAN",
       "description": "SEIYAN's governance token",
       "symbol": "xSEIYAN",
