@@ -797,19 +797,19 @@
         "type_asset": "erc20"
       }
     },
-    {
-      "name": "USDC",
-      "description": "USD Coin",
-      "symbol": "USDC",
+     {
+      "name": "Noble USDC",
+      "description": "Noble USDC",
+      "symbol": "USDC.n",
       "base": "ibc/CA6FBFAF399474A06263E10D0CE5AEBBE15189D6D4B2DD9ADE61007E68EB9DB0",
-      "display": "USDC",
+      "display": "USDC.n",
       "denom_units": [
         {
           "denom": "ibc/CA6FBFAF399474A06263E10D0CE5AEBBE15189D6D4B2DD9ADE61007E68EB9DB0",
           "exponent": 0
         },
         {
-          "denom": "USDC",
+          "denom": "USDC.n",
           "exponent": 6
         }
       ],
