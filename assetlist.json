@@ -824,6 +824,28 @@
       }
     },
     {
+      "name": "USDC",
+      "description": "USDC is a digital dollar issued by Circle, also known as a stablecoin, running on many of the world's leading blockchains. Designed to represent US dollars on the internet, USDC is backed 100% by highly liquid cash and cash-equivalent assets so that it's always redeemable 1:1 for USD.",
+      "symbol": "USDC",
+      "base": "0xe15fC38F6D8c56aF07bbCBe3BAf5708A2Bf42392",
+      "display": "USDC",
+      "denom_units": [
+        {
+          "denom": "0xe15fC38F6D8c56aF07bbCBe3BAf5708A2Bf42392",
+          "exponent": 0
+        },
+        {
+          "denom": "USDC",
+          "exponent": 6
+        }
+      ],
+      "images": {
+        "svg": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/USDCoin.svg"
+      },
+      "coingecko_id": "usd-coin",
+      "type_asset": "erc20",
+    },
+    {
       "name": "Basket",
       "description": "BSKT tracks the top assets across the crypto ecosystem, eliminating the need to track and analyse individual coins.",
       "symbol": "BSKT",
