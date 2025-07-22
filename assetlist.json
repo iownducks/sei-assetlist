@@ -797,7 +797,7 @@
         "type_asset": "erc20"
       }
     },
-     {
+    {
       "name": "Noble USDC",
       "description": "Noble USDC",
       "symbol": "USDC.n",
@@ -843,7 +843,7 @@
         "svg": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/USDCoin.svg"
       },
       "coingecko_id": "usd-coin",
-      "type_asset": "erc20",
+      "type_asset": "erc20"
     },
     {
       "name": "Basket",
