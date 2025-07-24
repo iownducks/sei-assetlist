@@ -798,8 +798,8 @@
       }
     },
     {
-      "name": "Noble USDC",
-      "description": "Noble USDC",
+      "name": "USDC via Noble",
+      "description": "USDC via Noble",
       "symbol": "USDC.n",
       "base": "ibc/CA6FBFAF399474A06263E10D0CE5AEBBE15189D6D4B2DD9ADE61007E68EB9DB0",
       "display": "USDC.n",
