@@ -814,7 +814,7 @@
         }
       ],
       "images": {
-        "svg": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/USDCoin.svg"
+        "svg": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/USDCoin.n.svg"
       },
       "coingecko_id": "usd-coin",
       "type_asset": "ics20",
