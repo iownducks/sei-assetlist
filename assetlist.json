@@ -1201,6 +1201,28 @@
         "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/MOOZ.png"
       },
       "type_asset": "erc20"
+    },
+    {
+      "name": "Fiamma BTC",
+      "description": "Fiamma BTC is a 1:1 pegged wrapped BTC, which is minted by a trust-minimized BTC bridge Powered by BitVM2 protocol. It enables universal cross‑chain interoperability, allowing native Bitcoin liquidity to be safely unlocked and utilized across multiple blockchain ecosystems. By verifying zero‑knowledge proofs on Bitcoin via the BitVM2 protocol to minimize trust assumptions, Fiamma BTC provides a secure and scalable pathway for integrating Bitcoin into DeFi applications.",
+      "symbol": "FIABTC",
+      "base": "0x60C230c38aF6d86b0277a98a1CAeAA345a7B061F",
+      "display": "Fiamma BTC",
+      "denom_units": [
+        {
+          "denom": "0x60C230c38aF6d86b0277a98a1CAeAA345a7B061F",
+          "exponent": 0
+        },
+        {
+          "denom": "FIABTC",
+          "exponent": 8
+        }
+      ],
+      "images": {
+        "png": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/FiaBTC.png",
+        "svg": "https://raw.githubusercontent.com/Seitrace/sei-assetlist/main/images/FiaBTC.svg"
+      },
+      "type_asset": "erc20"
     }
   ],
   "atlantic-2": [
